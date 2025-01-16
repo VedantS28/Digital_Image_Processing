@@ -15,6 +15,15 @@ Each practical is stored in its own folder.
    - Convert the Red channel into grayscale.
    - Display a specific pixel's intensity value.
 
+2. **Histogram Equalization Implementation for Grayscale Image**  
+   This practical demonstrates how to:
+   - Read and convert an image to grayscale
+   - Calculate and visualize image histograms
+   - Perform histogram equalization without built-in functions
+   - Compare original and equalized images
+   - Analyze intensity distributions using histograms and CDFs
+   - Visualize the enhancement in image contrast
+
 ## Prerequisites
 
   1. MATLAB installed on your system.
