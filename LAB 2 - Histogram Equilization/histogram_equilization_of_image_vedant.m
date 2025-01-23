@@ -1,6 +1,6 @@
-% Histogram Equalization Implementation for Grayscale Images
-% Enhances image contrast by equalizing the probability distribution of intensity values
-% Author: Vedant Shrivastava
+% Image Contrast Enhancement Using Histogram Equalization
+% A grayscale image processing technique that improves contrast by normalizing the distribution of pixel intensities
+% Written by Mithilesh Walde
 
 clear all
 close all

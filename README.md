@@ -24,6 +24,13 @@ Each practical is stored in its own folder.
    - Analyze intensity distributions using histograms and CDFs
    - Visualize the enhancement in image contrast
 
+3. **Binary Representation and Bit Plane Slicing**  
+   This practical demonstrates how to:
+   - Convert a decimal number to its binary representation
+   - Calculate the number of bits required to represent a given number
+   - Extract and visualize individual bit planes from a grayscale image
+   - Compare original and sliced images to understand the impact of each bit plane
+
 ## Prerequisites
 
   1. MATLAB installed on your system.
