@@ -31,6 +31,11 @@ Each practical is stored in its own folder.
    - Extract and visualize individual bit planes from a grayscale image
    - Compare original and sliced images to understand the impact of each bit plane
 
+4. **Shannon Fano Encoding Algorithm**  
+   This practical demonstrates how to:
+    - Implements the complete Shannon-Fano encoding algorithm
+    - Accepts arbitrary symbols and their corresponding probabilities
+
 ## Prerequisites
 
   1. MATLAB installed on your system.
